@@ -1,0 +1,2 @@
+# folder_analyzer_node
+comfyui folder_analyzer_node
